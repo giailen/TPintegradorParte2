@@ -1,0 +1,44 @@
+.navbar ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: nowrap; 
+  }
+
+.carousel-item img
+{
+filter: brightness(50%);
+}
+
+.div-principal{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.card border-primary mb-3{
+display: inline-block;
+
+}
+
+.div-secundario{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-title{
+  color: black;
+}
+
+.card-text{
+  color: black;
+}
+
+h5{
+  color: black;
+}
+
